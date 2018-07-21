@@ -33,7 +33,7 @@ def until_iterator(number_of_times)
   counter = 0
   until counter == 6
     puts phrase
-    coutner += 1
+    counter += 1
   end
 end
 
